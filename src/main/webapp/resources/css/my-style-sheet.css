@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+h1{
+	
+	color:red;
+
+}
+
+img{
+	width:100%;
+	height: 500px;
+}
+
+.myFonts{
+	font-size: 20px;
+	font-family: monospace;
+}
+
+
+
+#z{
+	color: white;
+	text-decoration: none;
+}
